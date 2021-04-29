@@ -1,9 +1,9 @@
 /* HelloWorld.java
  */
 
-public class
+public class Main
 {
 	public static void main(String[] args) {
-		Systemtln("Hello World!");
+		Systemt.out.println("Hello World!");
 	}
 }
